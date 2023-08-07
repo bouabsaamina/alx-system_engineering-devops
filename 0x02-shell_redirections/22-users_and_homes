@@ -1,0 +1,2 @@
+#!/bin/bash
+chat /etc/passwd | couper -d : -f1,6 | trier
