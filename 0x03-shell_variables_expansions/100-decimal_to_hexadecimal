@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "abse=16:$DECIMAL" | bc
+#!/bin/bashi
+printf "%x\n" $DECIMAL
